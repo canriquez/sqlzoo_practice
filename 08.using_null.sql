@@ -34,8 +34,8 @@ FROM teacher
     RIGHT JOIN dept ON dept = dept.id
 
 
-
-Using the COALESCE function
+/* 
+Using the COALESCE function */
 
 /* 5.
 Use COALESCE to print the mobile number. Use the number '07986 444 2266' if there is no number given. 
@@ -86,10 +86,3 @@ if the teacher's dept is 3 and 'None' otherwise. */
 
 SELECT teacher.name, CASE WHEN teacher.dept = 1 THEN 'Sci' WHEN teacher.dept = 2 THEN 'Sci' ELSE 'None' END
 FROM teacher
-
-
-
-
-
-
-
