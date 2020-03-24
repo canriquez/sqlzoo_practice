@@ -1,57 +1,22 @@
-# Project Name
+# Project Name: Mastering SQL domain
 
-> One paragraph statement about the project.
+> This project will test the student’s domain of SQL queries by requesting them to retrieve and organize different pieces of data from a table. The bases of this project and practice come from the site [SQL Zoo](http://sqlzoo.net/wiki/Main_Page) 
 
-![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+Here is the Original Lesson at the [The Odin Projec](https://www.theodinproject.com/courses/databases/lessons/sql)
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+- SQL
+- VSCode
 
 ## Authors
 
-👤 **Author1**
+👤 Carlos Anriquez
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@canriquez](https://github.com/canriquez)
+- Twitter: [@cranriquez](https://twitter.com/cranriquez)
+- Linkedin: [linkedin](https://www.linkedin.com/in/carlosanriquez/)
 
 ## 🤝 Contributing
 
@@ -65,9 +30,9 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+- Microverse
+- The Odin Project
+- SQL Zoo 
 
 ## 📝 License
 
